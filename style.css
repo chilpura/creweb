@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+html, body {
+    height: 100%;
+	background-color: white;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+area {
+outline: none;
+}
